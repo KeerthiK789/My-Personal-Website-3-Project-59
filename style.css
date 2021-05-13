@@ -69,3 +69,8 @@ a {
 html {
     scroll-behavior: smooth;
 }
+
+#review{
+    font-size: 20px;
+    color:indianred;
+}
